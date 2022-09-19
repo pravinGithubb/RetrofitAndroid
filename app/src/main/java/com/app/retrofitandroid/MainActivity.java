@@ -35,6 +35,10 @@ public class MainActivity extends AppCompatActivity {
         initRetrofit();
         initRecyclerView();
         loadUserList();
+        postReq();
+    }
+
+    private void postReq() {
 
     }
 
